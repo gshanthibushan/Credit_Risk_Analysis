@@ -47,7 +47,6 @@ Supervised Machine Learning and Credit Risk
 
 ![image](https://user-images.githubusercontent.com/79486450/123560206-e6979400-d76e-11eb-8a65-78790f629c09.png)
 
-
-
-
 ## Summary:
+
+![image](https://user-images.githubusercontent.com/79486450/123562088-6c6d0c80-d77a-11eb-8aff-7b2ddc1031c8.png)
