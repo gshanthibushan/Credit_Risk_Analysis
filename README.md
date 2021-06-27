@@ -4,12 +4,12 @@ Supervised Machine Learning and Credit Risk
 ## Overview of the analysis:
 For this analysis, created a six different supervised machine learning models that could predict credit risks. Following models were used to predict the credit risk.
 
-Naive Random Oversampling
-SMOTE Oversampling
-Cluster Centroid Undersampling
-SMOTEENN Sampling
-Balanced Random Forest Classifying
-Easy Ensemble Classifying
+ * Naive Random Oversampling
+ * SMOTE Oversampling
+ * Cluster Centroid Undersampling
+ * SMOTEENN Sampling
+ * Balanced Random Forest Classifying
+ * Easy Ensemble Classifying
 
 ## Results:
 
