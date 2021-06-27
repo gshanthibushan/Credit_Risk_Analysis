@@ -42,9 +42,9 @@ Supervised Machine Learning and Credit Risk
    ![image](https://user-images.githubusercontent.com/79486450/123557820-10e25500-d761-11eb-9f05-fac18cea31fc.png)
 
 ### Ensemble Classifiers to Predict Credit Risk
-#### Balanced Random Forest Classifier
-  ![image](https://user-images.githubusercontent.com/79486450/123560160-af28e780-d76e-11eb-9ce6-bcf55e147dce.png)
-#### Easy Ensemble AdaBoost Classifier
+
+![image](https://user-images.githubusercontent.com/79486450/123560239-0b8c0700-d76f-11eb-8f43-a13608f43033.png)
+
 ![image](https://user-images.githubusercontent.com/79486450/123560206-e6979400-d76e-11eb-8a65-78790f629c09.png)
 
 
