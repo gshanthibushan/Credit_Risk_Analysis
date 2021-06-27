@@ -5,7 +5,7 @@ Supervised Machine Learning and Credit Risk
 
 ## Results:
 
-### Credit Risk Resampling Techniques
+### Resampling Models to Predict Credit Risk
 #### Oversampling
   * oversampling the data using the naive random oversampling algorithm
    
@@ -30,7 +30,8 @@ Supervised Machine Learning and Credit Risk
 
    ![image](https://user-images.githubusercontent.com/79486450/123557783-e42e3d80-d760-11eb-8100-95fc93e5ee68.png)
 
-  #### Combination (Over and Under) Sampling
+### SMOTEENN algorithm to Predict Credit Risk
+#### Combination (Over and Under) Sampling
   
   * resampling the data using the SMOTEENN algorithm
 
@@ -39,5 +40,14 @@ Supervised Machine Learning and Credit Risk
    ![image](https://user-images.githubusercontent.com/79486450/123557809-00ca7580-d761-11eb-89e7-d6ba03112ea3.png)
 
    ![image](https://user-images.githubusercontent.com/79486450/123557820-10e25500-d761-11eb-9f05-fac18cea31fc.png)
+
+### Ensemble Classifiers to Predict Credit Risk
+#### Balanced Random Forest Classifier
+  ![image](https://user-images.githubusercontent.com/79486450/123560160-af28e780-d76e-11eb-9ce6-bcf55e147dce.png)
+#### Easy Ensemble AdaBoost Classifier
+![image](https://user-images.githubusercontent.com/79486450/123560206-e6979400-d76e-11eb-8a65-78790f629c09.png)
+
+
+
 
 ## Summary:
