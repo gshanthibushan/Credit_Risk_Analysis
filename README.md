@@ -56,7 +56,7 @@ For this analysis, created a six different supervised machine learning models th
 ![image](https://user-images.githubusercontent.com/79486450/123560206-e6979400-d76e-11eb-8a65-78790f629c09.png)
 
 ## Summary:
-After comparing all the models, EasyEnsemble AdaBoost model predicted the high-risk applicationns.
+After comparing all the models, EasyEnsemble AdaBoost model predicted the high-risk applications.
 Under the Easy Ensemble AdaBoost Classifier:
   * Precision - 7% of the predictions were correct.
   * Recall - 91% of the positive cases were caught.
