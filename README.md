@@ -15,8 +15,13 @@ Supervised Machine Learning and Credit Risk
    
    ![image](https://user-images.githubusercontent.com/79486450/123557606-d4fac000-d75f-11eb-9b0f-4b9d048f7417.png)
 
-
-
   * oversampling the data using the SMOTE algorithm
+
+   ![image](https://user-images.githubusercontent.com/79486450/123557630-ed6ada80-d75f-11eb-80fd-b74a7f3c791b.png)
+   
+   ![image](https://user-images.githubusercontent.com/79486450/123557644-01164100-d760-11eb-9678-f1de635776c5.png)
+
+   ![image](https://user-images.githubusercontent.com/79486450/123557652-0d020300-d760-11eb-97d6-f19b94d3fe87.png)
+
 
 ## Summary:
