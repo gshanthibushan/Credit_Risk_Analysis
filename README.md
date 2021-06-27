@@ -23,5 +23,21 @@ Supervised Machine Learning and Credit Risk
 
    ![image](https://user-images.githubusercontent.com/79486450/123557652-0d020300-d760-11eb-97d6-f19b94d3fe87.png)
 
+#### Undersampling
+  * undersampling the data using the Cluster Centroids algorithm
+   
+   !![image](https://user-images.githubusercontent.com/79486450/123557766-d082d700-d760-11eb-84db-04af5bcd8891.png)
+
+   ![image](https://user-images.githubusercontent.com/79486450/123557783-e42e3d80-d760-11eb-8100-95fc93e5ee68.png)
+
+  #### Combination (Over and Under) Sampling
+  
+  * resampling the data using the SMOTEENN algorithm
+
+   ![image](https://user-images.githubusercontent.com/79486450/123557797-f1e3c300-d760-11eb-9c87-f0e1df57f0a7.png)
+   
+   ![image](https://user-images.githubusercontent.com/79486450/123557809-00ca7580-d761-11eb-89e7-d6ba03112ea3.png)
+
+   ![image](https://user-images.githubusercontent.com/79486450/123557820-10e25500-d761-11eb-9f05-fac18cea31fc.png)
 
 ## Summary:
